@@ -52,8 +52,8 @@ Find the latest development repositories at [SUSE's Open Build Service](https://
 > The usage of a virtual environment is recommended.
 
 ```
-git clone https://github.com/SUSE/hanadb_exporter
-cd hanadb_exporter # project root folder
+git clone  https://github.com/PPJINHONG/SAP_prometheus
+cd hanadb_exporter # project root folder   
 virtualenv virt
 source virt/bin/activate
 # uncomment one of the next two options (to use hdbcli, you will need to have the HANA client folder where this python package is available)
