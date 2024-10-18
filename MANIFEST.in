@@ -1,0 +1,8 @@
+# Include useful user documentation
+include README.md
+include docs/METRICS.md
+include LICENSE
+include requirements.txt
+
+# Exclude unitary test files
+global-exclude tests/*

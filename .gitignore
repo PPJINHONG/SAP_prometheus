@@ -1,0 +1,14 @@
+/tests/htmlcov
+/tests/.coverage
+/tests/coverage.*
+dist/*
+.cache
+.idea
+*.pyc
+*.egg-info*
+.tox/*
+config.json
+/virt
+.vscode
+.pytest_cache
+/build
